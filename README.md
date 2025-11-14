@@ -1,6 +1,6 @@
 # Documentation of the Corpus of Hungarian Lyrical Poetry
 
-This repository contains the documentation of the Corpus of Hungarian Lyrical Poetry, developed by the Research Group in Stylistics at Eötvös Loránd University. The corpus itself is not publicly accessible for copyright reasons.
+This repository contains the documentation of the Corpus of Hungarian Lyrical Poetry, developed by the Research Group in Stylistics at Eötvös Loránd University. The corpus contains manually corrected annotations for parts of speech, lemmas, and morphosyntactic features. Syntactic features related to verbs and their complements are also annotated manually. The corpus itself is not publicly accessible for copyright reasons.
 
 
 # Subcorpora, sizes, sampling methods
