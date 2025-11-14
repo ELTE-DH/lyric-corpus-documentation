@@ -11,10 +11,12 @@ This repository contains the documentation of the Corpus of Hungarian Lyrical Po
 - **Song lyrics:** 144 songs were selected from the annual streaming and radio charts provided by [MAHASZ](https://www.mahasz.hu/) (Hungarian Association of Record Producers), covering the period from 2014 to 2022. A maximum of three songs per artist were included. Number of tokens: 52 000. The songs can be listened to [here](https://open.spotify.com/playlist/66U9J7G8TyCpX9RNIIuMvV?si=wkq-4521SgmHb0a28hgvVg).
 - **Slam poetry texts:** 108 texts by 54 authors were selected based on the view counts of videos from the [Slam Poetry Magyarország](https://www.youtube.com/@slampoetrymagyarorsz) (Slam Poetry Hungary) YouTube channel. A maximum of three texts per author were included. Number of tokens: 60 000
 
+See the corpus\_content.tsv file for the specific texts included in the corpus.
 
-# Remarks on the slam poetry subcorpus
 
-Since the slam poetry transcriptions in the level0 folder have not yet been verified by the authors, the generated files in the level1 and level2 folders are only temporary versions. Therefore, we have not included metadata in the TEI headers (e.g., author name, title). The metadata can be found in the slam\_corpus\_content.tsv file.
+## Remarks on the slam poetry subcorpus
+
+Since the slam poetry transcriptions in the level0 folder have not yet been verified by the authors, the generated files in the level1 and level2 folders are only temporary versions. Therefore, the TEI headers include only the author’s name and the title as metadata. Links to the videos of the slam poetry performances can be found in the corpus_content.tsv file. The transcriptions were created based on these videos.
 
 
 ## High school literary anthologies used for the compilation of the canonical subcorpus
@@ -242,3 +244,5 @@ The corpus building was supported by the project No. K-137659 (_Corpus-based cog
 
 - The content of the corpus is not public and cannot be disclosed due to copyright protection. 
 - The corpus is for research purposes only, and can only be used by those who have received a permission from the head of the Research Group in Stylistics.
+
+
