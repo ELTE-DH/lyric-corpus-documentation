@@ -189,7 +189,7 @@ By changing the name and the position of certain elements and attributes in leve
 
 ## Labels of tokens
 
-- `Core`: finitie verb or infinitive
+- `Core`: finite verb or infinitive
 - `Aux`: auxiliary verb
 - `Prev`: verbal prefix separated from the verb
 - `Arg`: complement of the verb
@@ -200,7 +200,7 @@ By changing the name and the position of certain elements and attributes in leve
 - `Flat`: in multi-word expressions (usually proper names), all elements before the last one
 - `Core:omitted`, `Arg:omitted`, `Aux:omitted`: elements realized in a previous (or later) verbal structure that allow for elliptical constructions; not present in the elliptical structure itself
 
-## Labels of dependency reletaions
+## Labels of dependency relations
 
 - `tr`: the relation of a verb or infinitive (Core) to the semantic subject (Arg) or to a vocative referring to the semantic subject (Voc)
 - `lm`: the relation of a verb or infinitive (Core) to a non-subject complement (Arg) or a vocative not referring to a non-subject complement (Voc)
